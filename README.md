@@ -1,2 +1,2 @@
 # nameMangle
-Performs various name Mangle output based on common naming schemes found in the industry
+Performs various name Mangle operations based on common naming schemes found in the industry
