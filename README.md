@@ -3,10 +3,9 @@
   Description: Mangles usernames into common naming conventions 
   Script Version: nameMangle v1.0
 
-#Usage: 
-  ./nameMangle.py <OPTIONS> 
-  Ex: ./nameMangle.py -m 7 -d yahoo.com -i /names.txt
-  Mangled output saved to: nameMangle/nameMangle-data/format[x]_time.txt 
+	Usage: ./nameMangle.py <OPTIONS> 
+	Ex: ./nameMangle.py -m 7 -d yahoo.com -i /names.txt
+	Mangled output saved to: nameMangle/nameMangle-data/format[x]_time.txt 
 
 #Mangle options:
 
