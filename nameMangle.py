@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Description: Mangles usernames into common naming conventions
 # Created by: Nick Sanzotta/@beamer
 # Script Version: nameMangle.py v1.0
 import os, sys, getopt, time
