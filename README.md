@@ -1,8 +1,9 @@
 # nameMangle.py
-  Created by: Nick Sanzotta/@beamr
   Description: Mangles usernames into common naming conventions 
+  Created by: Nick Sanzotta/@beamr
   Script Version: nameMangle v1.0
 
+#Usage:
 	Usage: ./nameMangle.py <OPTIONS> 
 	Ex: ./nameMangle.py -m 7 -d yahoo.com -i /names.txt
 	Mangled output saved to: nameMangle/nameMangle-data/format[x]_time.txt 
