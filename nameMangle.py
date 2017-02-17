@@ -32,6 +32,7 @@ def mangler(inputFile):
         for modFullName in modifiedArray:
             for separator in commonSeparators:
                 combinationsArray.append(modFullName[0] + separator + modFullName[1])
+                combinationsArray.append(modFullName[1] + separator + modFullName[0])
 
         appendToFile(combinationsArray, full_name[0] + full_name[1])
 
